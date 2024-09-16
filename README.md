@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bonJoeV
-- 👀 I’m interested in CLoud
+- 👀 I’m interested in Cloud
 - 🌱 I’m currently learning how to coach and mentor others more effectively. 
-- 💞️ I’m looking to collaborate on Way to automate Windows Virtual Desktop operations
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me joe.vandermark@microsoft.com
 
 <!---
